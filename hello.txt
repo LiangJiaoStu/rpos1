@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 aaaa
-=======
 bbbbbb
 vvvvvvv
->>>>>>> b53f1aee11631f74b214c2fd7656c1d3fed59f15
+
